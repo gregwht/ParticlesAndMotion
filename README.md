@@ -1,10 +1,4 @@
-/**
- ===========================================
- ||                                       ||
- ||         PARTICLES AND MOTION          ||
- ||            Gregory White              ||
- ||                                       ||
- ===========================================
+#Particles and Motion
  
  Programming for Artists Term 2 Project
  IS71017A
@@ -147,5 +141,3 @@
 
  
  Sit back and watch the patterns emerge!
- 
-**/
