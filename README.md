@@ -16,8 +16,8 @@
  at https://github.com/gregcw/ParticlesAndMotion
  
  
- Aim
- ---
+ #Aim
+ -----
  
  For this project, I didn't have a particular vision of a final program of product
  I wanted to create. Instead, I had several areas I wanted to explore and learn more about:
